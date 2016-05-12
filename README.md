@@ -1,4 +1,4 @@
-# PhoenixTrello
+# Phoenix-Trello
 
 To start your Phoenix app:
 
